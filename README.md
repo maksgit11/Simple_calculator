@@ -1,2 +1,2 @@
 # Simple_calculator
-<img src="E:\github2022\calc.gif">
+<img src="file://localhost/E:\github2022\calc.gif">
